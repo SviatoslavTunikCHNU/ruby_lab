@@ -1,0 +1,7 @@
+database_config:
+  database_type: mysql
+  mysql_database:
+    uri: mysql://127.0.0.1:3306
+    db_name: ruby_lab
+    user: root
+    password: password
