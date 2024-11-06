@@ -10,7 +10,7 @@ begin
 
   MyApplicationTunik::LoggerManager.initialize_logger(loader.config_data['logging'])
 
-  MyApplicationTunik::LoggerManager.log_processed_file('example_file.txt')
+  MyApplicationTunik::LoggerManager.log_processed_file('test.file')
 
   MyApplicationTunik::LoggerManager.log_error('An unexpected error occurred')
 rescue => e
