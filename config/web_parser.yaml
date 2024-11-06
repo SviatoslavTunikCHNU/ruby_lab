@@ -1,0 +1,9 @@
+web_scraping:
+  start_page: https://mychords.net
+  
+  author_song_selector: ".b-title_category"
+  
+  name_song_selector: ".b-title--song"
+  
+  content_song_selector: ".w-words__text"
+  
