@@ -22,8 +22,12 @@ module MyApplicationTunik
         @logger[:error].level = Logger::ERROR
       end
 
-      def log_processed_file(file_name)
-        @logger[:application].info("File processed: #{file_name}")
+      def log_info(file_name)
+        @logger[:application].info("INFO: #{file_name}")
+      end
+
+      def log_processed_file(message)
+        @logger[:application].info("File processed: #{message}")
       end
 
       def log_error(error_message)
