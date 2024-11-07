@@ -6,13 +6,23 @@ begin
 
   loader.config("default_config.yaml", File.expand_path(File.dirname(__FILE__)) + "/config")
 
-  loader.pretty_print_config_data
-
   MyApplicationTunik::LoggerManager.initialize_logger(loader.config_data['logging'])
 
-  MyApplicationTunik::LoggerManager.log_processed_file('test.file')
-
-  MyApplicationTunik::LoggerManager.log_error('An unexpected error occurred')
+  song = MyApplicationTunik::Song.new(name: "Назва", author: "Автор") do |i|
+    i.author_chord = "Автор розбору"
+    i.content = "Текст і акорди"
+  end
+  puts song.to_s
+  puts song.to_h
+  
+  song.update do |i|
+    i.name = "Нова назва"
+    i.author = "Новий виконавець"
+  end
+  puts song.info
+  
+  fake_song = MyApplicationTunik::Song.generate_fake
+  puts fake_song.inspect
 rescue => e
   puts "Помилка: #{e.message}"
   puts e.backtrace.join("\n")
