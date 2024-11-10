@@ -12,3 +12,13 @@ I, [2024-11-08T01:13:15.764527 #16292]  INFO -- : File processed: Created new So
 I, [2024-11-08T01:13:15.764653 #16292]  INFO -- : File processed: Song updated: Нова назва
 I, [2024-11-08T01:13:16.644929 #16292]  INFO -- : File processed: Created new Song: quod
 I, [2024-11-08T01:13:16.644991 #16292]  INFO -- : File processed: Created face Song: quod
+I, [2024-11-10T18:38:09.077559 #18104]  INFO -- : File processed: Saved items to items
+I, [2024-11-10T18:42:47.889920 #18472]  INFO -- : File processed: Saved items to items
+I, [2024-11-10T18:44:17.547298 #18580]  INFO -- : File processed: Saved items to items
+I, [2024-11-10T18:44:17.547401 #18580]  INFO -- : File processed: Saved items to items in JSON format
+I, [2024-11-10T18:44:17.547596 #18580]  INFO -- : File processed: Saved items to items in CSV format
+I, [2024-11-10T18:44:17.547851 #18580]  INFO -- : File processed: Saved item #0 in YAML format
+I, [2024-11-10T18:44:17.547967 #18580]  INFO -- : File processed: Saved item #1 in YAML format
+I, [2024-11-10T18:44:17.548057 #18580]  INFO -- : File processed: Saved item #2 in YAML format
+I, [2024-11-10T18:44:17.548146 #18580]  INFO -- : File processed: Saved item #3 in YAML format
+I, [2024-11-10T18:44:17.548253 #18580]  INFO -- : File processed: Saved item #4 in YAML format
