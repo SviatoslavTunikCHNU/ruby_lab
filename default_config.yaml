@@ -4,3 +4,5 @@ default:
   config_dir: config
   
   yaml_dir: config/yaml_config
+
+  media_fir: <%= File.expand_path('../', __FILE__) %>media/
