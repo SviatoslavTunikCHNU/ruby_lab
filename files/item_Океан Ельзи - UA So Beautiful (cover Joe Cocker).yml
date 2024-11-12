@@ -1,0 +1,17 @@
+--- !ruby/object:MyApplicationTunik::Song
+name: Океан Ельзи - UA So Beautiful (cover Joe Cocker)
+author: Океан Ельзи
+author_chord: "\n                            ElJuan                        "
+content: "C5 C7 F5 A#m\r\n\r\nC5   C7   F5          A#m\r\n You are so beautiful\r\n
+  \  C5\r\nTo me\r\nC7         F5         A#m\r\n  You are so beautiful\r\n   C5\r\nTo
+  me\r\n          C7\r\nCan't you see\r\nF5             G     E5\r\n  Everything I
+  hoped for\r\nAm    G            F#   D5\r\n  You everything I need\r\nC5     C7
+  \  F5           A#m      C5\r\n  You are so beautiful mmm.. to me\r\n\r\nC7             F5
+  \       A#m\r\n  Such joy and happiness\r\n    C5\r\nYou bring\r\nC7             F5
+  \       A#m\r\n  Such joy and happiness mmhmmm..\r\n    C5\r\nYou bring\r\n       C7\r\nLike
+  a dream\r\n  F5             G    E5\r\nA  guiding light that shines in the night\r\nAm
+  \   G              F# D5  G\r\n  You Heavens good to me\r\nC5     C7   F5           A#m
+  \     C5\r\n  You are so beautiful mmhm.. to me\r\nC7          F5         A#m     C5\r\n
+  \ You are so beautiful     to me\r\nC7                    F5         A#m\r\n  You
+  are so very very beautiful huu..\r\n   C5\r\nTo me"
+image_path: default_image.jpg

@@ -6,6 +6,7 @@ module MyApplicationTunik
       @config = {
         run_website_parser: 0,
         run_save_to_csv: 0,
+        run_save_to_file: 0,
         run_save_to_json: 0,
         run_save_to_yaml: 0,
         run_save_to_sqlite: 0,
@@ -27,6 +28,7 @@ module MyApplicationTunik
       [
         :run_website_parser,
         :run_save_to_csv,
+        :run_save_to_file,
         :run_save_to_json,
         :run_save_to_yaml,
         :run_save_to_sqlite,

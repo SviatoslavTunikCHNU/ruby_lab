@@ -1,0 +1,21 @@
+--- !ruby/object:MyApplicationTunik::Song
+name: Океан Ельзи - Вiдпусти
+author: Океан Ельзи
+author_chord:
+content: "Вступление: Gm | A# | Am | D7  } 4 раза\r\n\r\n|Куплет 1|\r\n     Gm                           F
+  \         A#\r\nЯ вважав би, що ти бiлий день без дощу,\r\n    D7                Gm
+  D7\r\nАле сльози на твому обличчi,\r\n     Gm\r\nI сказав би тобi:\r\n      F       A#\r\n\"Не
+  моя, не моя\",\r\n       D#       D7     Gm\r\nТiльки ти не пускаєш мене.\r\n\r\n
+  \    Gm                         F          A#\r\nЯ вважав би, що ти тиха нiч без
+  зiрок,\r\n    D7                Gm D7\r\nАле сяють твоi яснi очi.\r\n     Gm\r\nI
+  сказав би тобi:\r\n      F       A#\r\n\"Ти лиш сон, тiльки сон\", -\r\n       D#
+  \      D7     Gm\r\nАле ж ти не пускаєш мене.\r\n\r\n|Приспів|\r\n     Gm F  A#
+  \      F          A#\r\n     Вiдпусти, я благаю, вiдпусти,\r\n           D7        Gm
+  \ D7\r\n     Бо не можу далi йти я.\r\n     Gm F  A#       F          A#\r\n     Вiдпусти,
+  я благаю, вiдпусти,\r\n          D7          Gm   A# Am       D7 Gm A# Am       D7\r\n
+  \    Я не хочу бiльше йти.\r\n\r\n|Куплет 2|\r\n     Gm                          F
+  \         A#\r\nI вважав би, що ти пелюсток на веснi,\r\n    D7                Gm
+  D7\r\nАлеж ти не зiв'янеш нiколи,\r\n     Gm\r\nI сказав би тобi:\r\n      F       A#\r\n\"Ти
+  моя, не моя\",\r\n       D#       D7     Gm\r\nЛа-ла-ла-лай, ла-ла-ла-лай, ла-ла.\r\n\r\n|Приспів|\r\n
+  \    Gm A# Am       D7\r\n     Вiдпусти,\r\n     Gm A# Am       D7\r\n     Вiдпусти..."
+image_path: default_image.jpg
