@@ -1,0 +1,22 @@
+--- !ruby/object:MyApplicationTunik::Song
+name: Океан Ельзи - Без Тебе
+author: Океан Ельзи
+author_chord:
+content: "для удобства: тональность \"-1\"\r\n\r\nвст. Fm\r\nВзято з сайту https://mychords.net\r\nКуплет:1\r\n
+  \     Fm       C\r\nБез тебе - душа сліпа\r\nF7                          A#m\r\nІ
+  тіло моє, мов не рідне\r\n     Fm       C7       Fm\r\nБез тебе - один туман\r\n\r\n
+  \    Fm       C\r\nБез тебе - кругом вода\r\nF7                          A#m\r\nКуди
+  не глянь землі не видно\r\n     Fm       C7       Fm\r\nБез тебе - кругом обман\r\n\r\nПрипев:\r\nA#m
+  \       Fm\r\nЛетить, шукає\r\n  C#     Cm   A#m\r\nТебе душа моя,\r\n      G#        C7
+  \     Fm\r\nБо знає - де ти, там я\r\n\r\nКуплет:2\r\n      Fm       C\r\nБез тебе
+  моя любов,\r\nF7                          A#m\r\nНемов розкидане намисто\r\n     Fm
+  \      C7       Fm\r\nЧервоне, в снігу лежить.\r\n\r\n      Fm       C\r\nНавколо
+  застигла ніч\r\nF7                          A#m\r\nІ віє холодом навмисно.\r\n     Fm
+  \      C7       Fm\r\nСвітає, душа не спить\r\n\r\nПрипев:\r\nA#m        Fm\r\nЛетить,
+  шукає\r\n  C#     Cm   A#m\r\nТебе душа моя,\r\n      G#        C7      Fm\r\nБо
+  знає - де ти, там я\r\n\r\nC Fm C Fm\r\nF7 A#m C# C\r\nC Fm C Fm\r\nF7 A#m C# C\r\nFm\r\n\r\nFm
+  \             C\r\nТак близько твоя рука\r\nF7                        A#m\r\nНавіть
+  коли тебе немає\r\nFm\r\nЯ знаю\r\nC7          Fm\r\nде ти - там я.\r\nFm\r\nБлукаю\r\n
+  \     C7      Fm\r\nДе ти, там я.\r\nFm\r\nЛітаю\r\n     C7       Fm\r\nДе ти, там
+  я."
+image_path: default_image.jpg

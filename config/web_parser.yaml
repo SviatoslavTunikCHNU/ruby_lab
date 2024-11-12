@@ -2,7 +2,11 @@ web_scraping:
   start_page: https://mychords.net
   
   author_song_selector: ".b-title_category"
-  
+
+  author_chord_selector: ".b-words__author-name"
+
+  song_url_link_selector: ".b-listing__item__link"
+
   name_song_selector: ".b-title--song"
   
   content_song_selector: ".w-words__text"

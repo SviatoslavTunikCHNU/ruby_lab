@@ -1,0 +1,27 @@
+--- !ruby/object:MyApplicationTunik::Song
+name: Океан Ельзи - Susy
+author: Океан Ельзи
+author_chord: "\n                            Андрій                        "
+content: "    Am                      E\r\nСьюзi, мила моя Сьюзi\r\n                        G\r\nНе
+  тiкай вiд мене\r\n                        D\r\nВ свiт своiх iлюзiй\r\n                    F\r\nЯ
+  не можу їсти\r\n                    E\r\nЯ не хочу пити\r\n                   Am\r\nЯ
+  таки не знаю\r\n                    Em\r\nЯк з тобою жити\r\n                     Dm\r\nЯк
+  без тебе жити\r\n\r\nAm                        E\r\nСьюзi, мила моя Сьюзi\r\n                        G\r\nНе
+  тiкай вiд болi\r\n                        D\r\nВ свiт своiх iлюзiй\r\n                           F\r\nБез
+  вiйни не плачуть\r\n                           E\r\nБез бiди не кличуть\r\n                    Am\r\nХто
+  не має серця\r\n                      Em\r\nТому, хто ще має\r\n                           Dm\r\nПросто
+  так не зичить\r\n\r\n\r\n\r\n                     Am Em Dm E\r\nМила моя Сьюзi!\r\n\r\n
+  \                    Am Em Dm E\r\nМила моя Сьюзi!\r\n\r\n\r\nAm                               E\r\nСьюзi,
+  скiльки ми з тобою\r\n                      G\r\nСпiльною метою\r\n                     D\r\nПоливали
+  поле?\r\n                        F\r\nА воно пiд сонцем\r\n                       E\r\nА
+  воно пiд снiгом\r\n                       Am\r\nНе зiйшло сьогоднi\r\n                        Em\r\nМоже,
+  зiйде завтра\r\n                      Dm\r\nМоже, вже нiколи\r\n\r\n\r\nAm                        E\r\nСьюзi,
+  мила моя Сьюзi\r\n                        G\r\nНе в твоiй заслузi\r\n                        D\r\nЩо
+  сьогоднi двоє\r\n                        F\r\nРазом будем їсти\r\n                          E\r\nА
+  потiм будем пити\r\n                     Am\r\nДалi будем жити!\r\n                    Em\r\nПоки
+  не настане\r\n                    Dm\r\nДовгождане лiто\r\n\r\n                     Am
+  Em Dm E\r\nМила моя Сьюзi!\r\n\r\n                     Am Em Dm E\r\nМила моя Сьюзi!\r\n\r\n
+  \                    Am Em Dm E\r\nМила моя Сьюзi!\r\n\r\n                     Am
+  Em Dm E\r\nМила моя Сьюзi!\r\n                     Am Em Dm E\r\nМила моя Сьюзi!\r\n\r\n
+  \                    Am Em Dm E\r\nМила моя Сьюзi!"
+image_path: default_image.jpg

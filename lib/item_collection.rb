@@ -37,7 +37,7 @@ module MyApplicationTunik
 
     def save_to_csv(filename = 'items')
       CSV.open("files/#{filename}.csv", 'w') do |csv|
-        csv << @items.first.keys if @items.any?
+        csv << @items.first if @items.any?
         @items.each { |item| csv << item.values }
       end
       self.class.logger.log_processed_file("Saved items to #{filename} in CSV format")
@@ -53,7 +53,7 @@ module MyApplicationTunik
 
     def save_to_yml
       @items.each_with_index do |item, index|
-        File.write("files/item_#{index}.yml", item.to_yaml)
+        File.write("files/item_#{item.name}.yml", item.to_yaml)
         self.class.logger.log_processed_file("Saved item ##{index} in YAML format")
       end
     end

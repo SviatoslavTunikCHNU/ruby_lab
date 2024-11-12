@@ -40,18 +40,20 @@ begin
   # item_collection.save_to_yml
 
   configurator = MyApplicationTunik::Configurator.new
-  puts "Start settings: #{configurator.config}"
 
   configurator.configure(
     run_website_parser: 1,
-    run_save_to_csv: 1,
+    run_save_to_file: 1,
+    run_save_to_csv: 0,
     run_save_to_yaml: 1,
-    run_save_to_sqlite: 1
+    run_save_to_json: 1
   )
 
-  puts "Updated settings: #{configurator.config}"
+  artist_url = '/uk/okyean-el697zy/'
+  parser = ArtistPageParser.new(artist_url, configurator, loader.config_data)
+  parser.parse
 
-  puts "Available methods: #{MyApplicationTunik::Configurator.available_methods}"
+
 
 
 rescue => e

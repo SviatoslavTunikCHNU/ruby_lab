@@ -1,5 +1,1786 @@
-{:name=>"Item 0", :author=>"author 0", :author_chord=>"author_chord 0", :content=>"content 0", :image_path=>"content 0"}
-{:name=>"Item 1", :author=>"author 1", :author_chord=>"author_chord 1", :content=>"content 1", :image_path=>"content 1"}
-{:name=>"Item 2", :author=>"author 2", :author_chord=>"author_chord 2", :content=>"content 2", :image_path=>"content 2"}
-{:name=>"Item 3", :author=>"author 3", :author_chord=>"author_chord 3", :content=>"content 3", :image_path=>"content 3"}
-{:name=>"Item 4", :author=>"author 4", :author_chord=>"author_chord 4", :content=>"content 4", :image_path=>"content 4"}
+Name: Океан Ельзи - 18 хвилин, Author: Океан Ельзи, Author chord: 
+                            Ruslan Nakorenok                        , Content: (Акорд Dm завжди чергується з Dsus2)
+Dm
+1.Не кидай мені свої карти,
+Я і так знаю хто ти.
+Нам, напевно, більше не варто
+                            Am
+Збуджені телемости будувати
+                                            Dm
+І головою вниз падати й падати.
+Dm
+Не кидай мені свої карти,
+Я і так знаю хто ми.
+Нам давно уже було би варто
+Стати невидимими
+Am
+Для холодної, як чужий готель,
+                Dm
+І нудної зими.
+
+Приспів:
+Bb                             Abdim7
+Ми так ховалися від зими
+                    A
+18 хвилин назад!
+                         Am
+Листопад, стали митими ми знов.
+Bb                             Abdim7
+Ми так ховалися від зими
+                    A
+18 хвилин назад!
+                         Am          Dm
+Листопад, листопад, листопад!
+Взято з сайту https://mychords.net
+2.Ти все далі, далі і далі,
+І сльоза - холодне скло.
+І, здається, більше немає
+Днів, які б не замело,
+Але кожен з нас у своїх снах
+Бачить тільки тепло!
+За вікном ми - вулиці свято,
+За вікном ми - радість і сміх!
+Знову той лиш може почати,
+В серці хто забути зміг
+Мов холодний, як чужий готель,
+І пронизливий сніг!
+
+Приспів.
+
+Соло:
+Am Am Am Am Gm9 Gm9 Gm9 Gm9 – 3 p.
+Am Am A A
+Dm Dm Dm Dm
+
+Приспів., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - 2000 миль, Author: Океан Ельзи, Author chord: 
+                            ElJuan                        , Content: [Вступ]:
+Dm Bb C5 Am  x3
+Bb Am C5
+
+[Куплет 1]:
+Am             Bb             F
+  Щоки червоні,  як на долоні видно усе,
+Am            Bb               F
+  Кожної ночі   ламаний почерк карму несе.
+Am                 Bb               F
+  В далі нестримні   надто інтимні майже весна,
+Am            Bb                  C5
+  Ягоди винні   в цьому не винні, винна вона!
+
+[Приспів]:
+Dm           Bb               C5        Am
+  Дві тисячі миль між нами і один бокал вина,
+Dm           Bb              C5         Am
+  Дві тисячі днів без тями і доля лиш одна.
+Dm           Bb              C5      Am
+  Дві тисячі довгих років не уявляли ми,
+Bb           Am      C5     Dm
+Як жити там, де ти тепер, мила?
+
+[Куплет 2]:
+Am              Bb                F
+  Ще один подих,   ще один дотик, ще одна мить,
+Am                 Bb              F
+  Ні, це не подвиг   жити у стані день все болить.
+Am                  Bb                 F
+  Ні, це не подвиг,   ні, це не тайна знає вона,
+Am             Bb                      C5
+  Жодної змови   де менше розмови, там більше вина!
+
+[Приспів]:
+Dm           Bb               C5        Am
+  Дві тисячі миль між нами і один бокал вина,
+Dm           Bb              C5         Am
+  Дві тисячі днів без тями і доля лиш одна.
+Dm           Bb              C5      Am
+  Дві тисячі довгих років не уявляли ми,
+Bb           Am      C5     Dm
+Як жити там, де ти тепер, мила?
+           Bb               C5        Am
+Дві тисячі миль між нами і один бокал вина,
+Dm           Bb              C5         Am
+  Дві тисячі днів без тями і доля лиш одна.
+Dm           Bb              C5      Am
+  Дві тисячі довгих років не уявляли ми,
+Bb           Am      C5    Fm
+Як жити там, де ми тепер, мила?
+
+[Соло]:
+Fm C#5 D#5 Cm7  x2
+
+[Кода]:
+Fm    C#5    D#5  Cm7 Fm   C#5 D#5 Cm7
+  Дві тисячі миль між нами..
+Fm    C#5    D#5  Cm7 Fm   C#5 D#5 Cm7
+  Дві тисячі днів без тями..
+Fm    C#5    D#5 Cm7 Fm   C#5 D#5 Cm7
+  Дві тисячі довгих  років..
+Fm    C#5    D#5     Cm7    Fm    C#5 D#5 Cm7 Fm
+  Дві тисячі зай-зай-зайвих кроків!, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - 911, Author: Океан Ельзи, Author chord: , Content: Cm
+Ти моя остання любов,
+  Fm
+Моя машина, моя машина.
+ Cm
+Ти i я напилися знов,
+  Fm
+Моя єдина
+                     Cm Fm
+На смак бензина - кави.
+
+День i нiч дихає час,
+А ми з тобою живемо двоє.
+Автомобiль буде у нас,
+Моє ти сонце.
+
+          Cm D#  A#       Cm
+   Я не один, й ти не одна.
+   Скiльки людей - стiльки машин.
+   Ти не одна, я не один
+   Мiй телефон 911.
+
+Ти i я - щаслива сiм'я,
+Бо ти машина i я машина.
+Може твiй, а може твоя,
+Моя єдина,
+Налий бензина - кави.
+
+Хто не забув сьогоднi до нас
+Заходьте в гостi, заходьте в гостi.
+Ставити фiльм, може i нас
+Колись покажуть там.
+
+   Я не один, й ти не одна.
+   Скiльки людей - стiльки машин.
+   Ти не одна, я не один
+   Мiй телефон 911., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - GLORIA, Author: Океан Ельзи, Author chord: , Content: Bm        D#m
+Сьогодні ти моя,
+                  Bm
+А завтра ти для всіх,
+                D#m
+Сьогодні ти як сонце,
+              Bm
+Завтра - як сніг.
+
+Ми ніби не чужі
+Але ж ми не сім'я,
+Скажи я хочу знати,
+Хто тобі я?
+Скажи я хочу знати,
+Хто тобі я?
+
+   Fm
+   Ей, твоє ім'я, твоє ім'я,
+                     D#m
+   Таке знайоме для нас
+   Fm
+   Ей, твоє ім'я, твоє ім'я,
+                    D#m
+   Все далі й далі відносить час
+
+Сьогодні всім даєш,
+А завтра всіх до ніг,
+Чомусь живуть лише удвох
+Сльози й сміх.
+
+Ти маєш бути там,
+Де люблять за слова.
+Іди, а я залишусь тут,
+Прийде нова!
+Іди, а я залишусь тут,
+Прийде нова!
+
+   Ей, твоє ім'я, твоє ім'я,
+   Таке знайоме для нас
+   Ей, твоє ім'я, твоє ім'я,
+   Все далі й далі відносить час
+
+   Ей, твоє ім'я, твоє ім'я,
+   Таке знайоме для нас, знайоме для нас!
+   Ей, твоє ім'я, твоє ім'я,
+   Все далі й далі відносить час, відносить час!, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Hey, Jude, Author: Океан Ельзи, Author chord: , Content:                       B
+For well, you know that it's a fool,
+          Bmaj7  Gm7
+Who plays it cool
+                    C7             F
+By making his world a little colder.
+
+Hey, Jude, don't let me down.
+You have found her, now Go and ger her.
+Remember (hey, Jude), you let her into your heart
+Then you can start to make it better.
+Взято з сайту https://mychords.net
+So, let it out and let it in
+Hey, Jude, begin.
+You're waiting for someone to perform with
+And don't you know that it's just you
+Hey, Jude, you'll Do
+The movement you need is on your shoulder
+
+Hey, Jude, don't make it bad.
+Take a sad song and make it better.
+Remember, you let her under your skin
+Then you'll begin to make it better., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Isn't It сон, Author: Океан Ельзи, Author chord: , Content: Bm                                    D#m
+Я маю мiсяць, маю небо, маю твiй телефон -
+G#        Bm
+Isn't it сон?
+Я буду довго намагатися тебе знайти,
+Вдягну льон.
+
+   Bm             D#m
+   День ще не настав...
+   G#                                Bm
+   Я маю то, я маю то, я маю то, що так шукав.
+    Fm            D#m
+   День ще не настав...
+   G#                                Bm
+   Я маю то, я маю то, я маю то, що так шукав.
+Взято з сайту https://mychords.net
+I було небо, було мiсяць, i мовчав телефон -
+Wasn't it сон?
+З тобою ми ловили берег, лягали на дно,
+Плавили лiд.
+
+   День ще не настав...
+   Я маю то, я маю то, я маю то, що так шукав.
+   День ще не настав...
+   Я маю то, я маю то, я маю то, що так шукав.
+
+I ми забудемо зачинити за собою вiкно.
+То буде, то буде сьома нуль п'ять.
+Давай залишимо на завтра сьогодняшнiй лiд -
+Спека така.
+
+   День ще не настав...
+   Я маю то, я маю то, я маю то, що так шукав.
+   День ще не настав...
+   Я маю то, я маю то, я маю то, що так шукав., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Lighthouse (feat. John Rzeznik), Author: Океан Ельзи, Author chord: 
+                            ElJuan                        , Content: [Intro]:
+E5 B
+
+[Verse 1]:
+C#m       A          E5              B
+  I see a silhouette   when I turn around
+                   C#m        A                 E5  B
+It’s like you were never here  wonder where you go
+C#m         A
+   Are you scared to death?
+E5            B                       C#m
+  On an early train heading somewhere far away
+A                    E    B
+Been trynna call you home
+Взято з сайту https://mychords.net
+[Pre-Chorus]:
+A                                      B
+Take my hand I’ll get you through the storm!
+
+[Chorus]:
+E5             B        C#m
+  When I fall asleep I dream,
+   A
+I dream of angels
+E5                 B        C#m
+  When I walk the streets I hear,
+  A
+I hear them singing
+E5  B        G#5  A
+Someday we’ll be one..
+E5  B        G#5  A
+Someday we’ll be one..
+    C#5                  B
+For tonight I’ll be your lighthouse,
+        A          B         E5
+Be your lighthouse   shining on.. (shining on..)
+
+[Verse 2]:
+C#m          A            E5                B
+   I see the shadows fall   as the sun sets low
+            C#m       A          E5  B
+Just like a waterfall  you melt away
+             C#m                            A
+You know the winds will change and nothing stays the same
+        E5                     B
+I never walked away you needed someone safe
+             C#m       A                    E5    B
+I’ll be your starlight get you through the storm
+
+[Pre-Chorus]:
+A                                      B
+Take my hand I’ll get you through the storm!
+
+[Chorus]:
+E5             B        C#m
+  When I fall asleep I dream,
+   A
+I dream of angels
+E5                 B        C#m
+  When I walk the streets I hear,
+  A
+I hear them singing
+E5  B        G#5  A
+Someday we’ll be one..
+E5  B        G#5  A
+Someday we’ll be one..
+    C#m                  B
+For tonight I’ll be your lighthouse,
+        A          B         C#m B A E5       C#m B A E5
+Be your lighthouse   shining on..     shining on..
+
+[Solo]:
+C#m B A E5  x2
+
+[Chorus]:
+E5             B        C#m
+  When I fall asleep I dream,
+   A
+I dream of angels
+E5                 B        C#m
+  When I walk the streets I hear,
+  A
+I hear them singing
+E5  B        G#5  A
+Someday we’ll be one.. (Someday we’ll be one..)
+E5  B        G#5  A
+Someday we’ll be one.. (Someday..)
+      C#5                B
+For tonight I’ll be your lighthouse,
+        A          B
+Be your lighthouse
+      C#5                B
+For tonight I’ll be your lighthouse,
+        A          B         E5
+Be your lighthouse   shining on.., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Long Time Ago, Author: Океан Ельзи, Author chord: , Content: Cm   G   B          F
+Hey girl, it was a rainy Thursday
+Your tears, were drops of morning rain
+You cried, I couldn`t find the answer
+And now I want to return
+
+    Cm          G#         G
+   Long, long, long time ago
+               B      C#m
+   It used to be the world
+             G#           G
+   Where we had somethig more
+             B
+   I was happy...
+    Cm          G#         G
+   Long, long, long time ago
+               B      Cm
+   It used to be the world
+             G#            G
+   Where we had something more
+              B           G#
+   I was happy, now I`m drained
+
+Hey time, why Do you run away now
+The fall will never come again
+Hey girl, although today is Sunday
+I want to see the rain
+
+   Long, long, long time ago
+   It used to be the world
+   Where we had somethig more
+   I was happy...
+   Long, long, long time ago
+   It used to be the world
+   Where we had something more
+   I was happy, now I`m drained, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Mickey Mouse, Author: Океан Ельзи, Author chord: , Content: G        C     D
+Сонце яскраво свiтить,
+     C             G C D C
+I скрiзь росте трава,
+   G      C     D
+Бджоли солодко гудуть,
+      C      G C D C
+Вiнi-Пуха нема.
+
+Вiн, доiдаючи мед,
+Спiшить до Iа,
+Бо бiльше нi в кого в лiсi
+Телевiзора нема.
+
+Поруч вони посiдали:
+Жують свiжий pop-korn,
+MTV, Greatest Hits -
+Їх тягне на сон.
+
+А за вiкном на кульцi
+П'ятачок лiтав,
+Тихенько майже про себе
+Пiсеньку спiвав.
+
+    G D C      G   D C
+   Yo! Mickey Mouse
+    G D C      G   D C
+   Yo! Mickey Mouse
+    G D C      G   D C
+   Yo! Mickey Mouse
+           G             D
+   Mickey Mouse, Mickey Mouse,
+           C             G
+   Mickey Mouse, Mickey Mouse...
+
+Сонце яскраво свiтить,
+I скрiзь росте трава. Ша-лу-ла-лу-лай, лай-лу-лай.
+Ця свинюка на кульцi
+Спати заважає-є-є-є-є-є
+
+У Вiнi урвався терпець -
+П'ятачку кiнець.
+Ша-лу-ла-лу-лай, лай-лу-лай.
+Ша-лу-ла-лу-лай...
+
+Сонце яскраво свiтить,
+I скрiзь росте трава,
+Ой, на небi кульки
+Й П'ятачка нема.
+
+Вiн, зрiзаючи гiлки,
+На землю злiтав. Є!
+Тихенько майже про себе
+Пiсеньку спiвав.
+
+   Yo! Mickey Mouse
+   Yo! Mickey Mouse
+   Yo! Mickey Mouse
+   Mickey Mouse, Mickey Mouse,
+   Mickey Mouse, Mickey Mouse...
+
+А Beavis скаже: «Funky!»
+А Butthead скаже: «Hey, cool!»
+Коли вони почують, коли вони почують
+Цю пiсеньку просту.
+
+   Yo! Mickey Mouse
+   Yo! Mickey Mouse
+   Yo! Mickey Mouse
+   Mickey Mouse, Mickey Mouse,
+   Mickey Mo-o-o-ouse
+   Mickey Mo-o-o-ouse
+   Mickey Mo-o-o-ouse
+   Mickey Mo-o-o-ouse
+
+Ти прийди
+Mickey Mouse
+Mickey Mouse
+Не залишай нас.
+Mickey Mouse
+Mickey Mouse, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Might Have Been a Dream, Author: Океан Ельзи, Author chord: 
+                            ElJuan                        , Content: [Intro]:
+Dm G Am  x2
+
+[Verse 1]:
+  Dm         G              Am
+I saw it the   flicker of a ghost
+  Dm            G               Am
+A shadow of the fear inside my bones
+  Dm       G                 Am
+I wrote it yeah I wrote the story of our love
+    Dm               G               Am
+But sometimes, honey stories aren`t enough
+
+[Chorus]:
+                     Dm       G      Am
+It might have been a dream so bright naive
+                     Dm        G   Am
+It might have been a dream but I belived
+                  Dm         G        Am
+I`m following the waves they rise and break
+                     Dm        G    Am
+It could have been a dream but I`m awake
+
+[Verse 2]:
+  Dm       G                    Am
+I found it   the letter in your coat
+     Dm              G                      Am
+The one where you explained that you had to go
+    Dm      G                       Am
+But what if   we met at a different time, time, time
+Dm            G                   Am
+After we both learned to walk the line
+
+[Chorus]:
+                     Dm       G      Am
+It might have been a dream so bright naive
+                     Dm        G   Am
+It might have been a dream but I belived
+                  Dm         G        Am
+I`m following the waves they rise and break
+                     Dm        G    Am
+It could have been a dream but I`m awake
+
+[Solo]:
+Dm G Am  x2
+
+Am G Dm E5 F5 E7 Am  x2
+
+[Outro]:
+                     Dm       G      Am
+It might have been a dream so bright naive
+                     Dm        G   Am
+It might have been a dream but I belived, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Rendez-Vous, Author: Океан Ельзи, Author chord: , Content: Вступление: Dm Dm | Dm Dm | Dm Dm | Dm Dm Dm Dm
+
+ Dm
+Який навколо видався туман –
+ Gm           F           Gm
+Так, ніби небо бачить мій самообман.
+A                                     Dm
+І не бере вино і кава моя не така, як треба.
+
+  Dm
+А я лечу і думаю про нас –
+   Gm         F          Gm
+Тi декілька годин, які були лиш раз,
+A                                           Dm
+І поділили світ відтоді на «З тобою» i «Без тебе».
+
+Приспів:
+ Dm          Gm             A7            Dm
+     На тому ранде-ранде-ранде-ранде-рандеву.
+        Gm          C       F            Bb
+     Змінила моє життя ти з ніг і на голову.
+     Gm             A7            Dm
+     Ранде-ранде-ранде-ранде-рандеву.
+        Gm         C     F        Bb E7          Gm
+     Відтоді літаю я, в уяві і наяву живу тобою.
+               Dm
+     Тобою я живу!
+
+Проигрыш: Dm Dm | Dm Dm | Dm Dm | Dm Dm Dm Dm
+
+Все було ніби плани у кіно:
+Ми знали і не знали чим закінчиться воно,
+Я не відвів очей, ти хайку поглядом мені складала.
+
+А далі ми залишились одні,
+Ти там віддала більше, ніж могла мені,
+А потім уві сні ти в ванні з молоком мене купала.
+
+Приспів:
+     На тому ранде-ранде-ранде-ранде-рандеву.
+     Змінила моє життя ти з ніг і на голову.
+     Ранде-ранде-ранде-ранде-рандеву.
+     Відтоді літаю я, в уяві і наяву живу тобою.
+     Тобою я живу!
+
+Проигрыш: Dm Dm Dm Dm | Dm | Dm7 | Dm Dm Dm Dm
+          Dm Dm Dm Dm | Dm | Dm7 | Dm
+
+             Gm             A7            Dm
+     На тому ранде-ранде-ранде-ранде-рандеву.
+        Gm          C       F            Bb
+     Змінила моє життя ти з ніг і на голову.
+     Gm             A7            Dm
+     Ранде-ранде-ранде-ранде-рандеву.
+        Gm         C     F        Bb  E7
+     Відтоді літаю я, в уяві і наяву. Лише тобою,
+   Gm         E7
+     Відтоді я живу тобою,
+   Gm         E7          Gm          Dm
+     Відтоді я лише тобою - тобою я живу!
+
+Проигрыш: Dm Dm | Dm Dm
+
+   Dm
+     Живу тобою,
+
+     Живу тобою., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Susy, Author: Океан Ельзи, Author chord: 
+                            Андрій                        , Content:     Am                      E
+Сьюзi, мила моя Сьюзi
+                        G
+Не тiкай вiд мене
+                        D
+В свiт своiх iлюзiй
+                    F
+Я не можу їсти
+                    E
+Я не хочу пити
+                   Am
+Я таки не знаю
+                    Em
+Як з тобою жити
+                     Dm
+Як без тебе жити
+
+Am                        E
+Сьюзi, мила моя Сьюзi
+                        G
+Не тiкай вiд болi
+                        D
+В свiт своiх iлюзiй
+                           F
+Без вiйни не плачуть
+                           E
+Без бiди не кличуть
+                    Am
+Хто не має серця
+                      Em
+Тому, хто ще має
+                           Dm
+Просто так не зичить
+
+
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+
+Am                               E
+Сьюзi, скiльки ми з тобою
+                      G
+Спiльною метою
+                     D
+Поливали поле?
+                        F
+А воно пiд сонцем
+                       E
+А воно пiд снiгом
+                       Am
+Не зiйшло сьогоднi
+                        Em
+Може, зiйде завтра
+                      Dm
+Може, вже нiколи
+
+
+Am                        E
+Сьюзi, мила моя Сьюзi
+                        G
+Не в твоiй заслузi
+                        D
+Що сьогоднi двоє
+                        F
+Разом будем їсти
+                          E
+А потiм будем пити
+                     Am
+Далi будем жити!
+                    Em
+Поки не настане
+                    Dm
+Довгождане лiто
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+                     Am Em Dm E
+Мила моя Сьюзi!
+                     Am Em Dm E
+Мила моя Сьюзi!
+
+                     Am Em Dm E
+Мила моя Сьюзi!, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - UA So Beautiful (cover Joe Cocker), Author: Океан Ельзи, Author chord: 
+                            ElJuan                        , Content: C5 C7 F5 A#m
+
+C5   C7   F5          A#m
+ You are so beautiful
+   C5
+To me
+C7         F5         A#m
+  You are so beautiful
+   C5
+To me
+          C7
+Can't you see
+F5             G     E5
+  Everything I hoped for
+Am    G            F#   D5
+  You everything I need
+C5     C7   F5           A#m      C5
+  You are so beautiful mmm.. to me
+
+C7             F5        A#m
+  Such joy and happiness
+    C5
+You bring
+C7             F5        A#m
+  Such joy and happiness mmhmmm..
+    C5
+You bring
+       C7
+Like a dream
+  F5             G    E5
+A  guiding light that shines in the night
+Am    G              F# D5  G
+  You Heavens good to me
+C5     C7   F5           A#m      C5
+  You are so beautiful mmhm.. to me
+C7          F5         A#m     C5
+  You are so beautiful     to me
+C7                    F5         A#m
+  You are so very very beautiful huu..
+   C5
+To me, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Voices Are Rising, Author: Океан Ельзи, Author chord: 
+                            ElJuan                        , Content: [Verse 1]:
+C#m
+Too many thoughts, too many words
+G#m                         A    B
+Stuck in my head nothing is easy
+C#m
+Not enough time nothing inside
+G#m                            A    B
+Painted in black losing the feeling
+
+[Pre-Chorus]:
+        A      C#m      B
+And the water drowns me out
+        A        C#m       B
+But the silence breaks the sound
+
+[Chorus]:
+           A        E5
+Voices are rising!
+            B
+Just let it out right now
+G#5               A      E5
+Tears that you`re hiding
+            B
+Just let Em all fall down
+G#5      A            C#m           B
+And I`ll sing till my heart makes a sound
+G#5      A            C#m         B
+And I`ll sing till my heart`s breaking out
+N.C.
+Voices are rising..
+
+[Verse 2]:
+C#m
+Give me a sign throw me a line
+G#m                        A     B
+Open the door I need to be there
+C#m
+I wanna know I wanna feel
+G#m                       A      B
+Open my heart just let me in now
+
+[Pre-Chorus]:
+        A      C#m      B
+And the water drowns me out
+        A        C#m       B
+But the silence screams so loud
+
+[Chorus]:
+           A        E5
+Voices are rising!
+            B
+Just let it out right now
+G#5               A      E5
+Tears that you`re hiding
+            B
+Just let Em all fall down
+G#5      A            C#m           B
+And I`ll sing till my heart makes a sound
+G#5      A            C#m         B
+And I`ll sing till my heart`s breaking out
+           A#m      A
+Voices are rising.. rising..
+
+[Solo]:
+E5 C#m B B7
+
+[Bridge]:
+          A            C#m           B
+(And I`ll sing till my heart makes a sound..
+         A            C#m              B
+And I`ll sing till my heart`s breaking out..)
+         A            C#m           B
+And I`ll sing till my heart makes a sound!
+         A         C#m                 B
+And I`ll sing till my heart`s breaking out!
+
+[Outro]:
+A C#m B
+
+         A            C#m              B
+And I`ll sing till my heart`s breaking out.., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Африка, Author: Океан Ельзи, Author chord: , Content: Gm      B          D
+Ти не питай мене, чому наш час такий,
+Коли навколо нас темна лиш вода.
+I не питай мене, чому цей свiт такий,
+Hапевно вiдповiдь тобi на це не дам.
+
+I не питай мене, чому мої пiснi
+Тобi нагадують те, чого нема.
+Але ж вiзьми собi з полицi молодiсть
+Зiтри пилюку там, сядь i заспiвай.
+
+Hавколо нас живуть герої тих казок,
+Якi в дитинствi ти усi перечитав.
+У них i запитай, чому наш час такий
+I чи було усе п'ять столiтть назад.
+
+I скажуть нам вони, що загубилася
+У багатьох вiках вiдповiдь проста.
+I бути нам тодi не судилося,
+Бо у нас життя - лиш одне життя., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Без бою, Author: Океан Ельзи, Author chord: , Content: вст. A Dm A Dm A Dm A Dm
+
+|Куплет 1|
+Gm                       A
+Шо ж це я, шо ж це я не зумів
+             Dm        A#
+Зупинитися вчасно, все ясно,
+     Gm
+Зі мною тепер і назавжди
+ A                        Dm
+Пізно не йди, не йди від мене...
+Взято з сайту https://mychords.net
+        F
+   Рау-рау-пабадиба-думдай...
+        A#                        Gm
+   Я налию собі, я налию тобі вина,
+               A
+   А хочеш із медом?
+
+|Приспів|
+      Dm             A#           Gm
+      Хто ти є? Ти взяла моє життя
+      A
+      І не віддала,
+      Dm            A#          Gm
+      Хто ти є? Ти випила мою кров
+          A
+      І п'яною впала,
+      Dm         A#                Gm
+      Твої очі кличуть, хочуть мене,
+         A
+      Ведуть за собою...
+      Dm         A#              Gm
+      Хто ти є, ким би не була ти, -
+      A      Dm        F  A#
+      Я не здамся без бою!
+      A      Dm        F  A# A
+      Я не здамся без бою!
+
+|Куплет 2|
+Gm                             A
+Шо ж це я, шо ж це я не зумів
+             Dm               A#
+Зупинити себе - тебе, сьогодні.
+   Gm
+Сьогодні так дує, без тебе сумую,
+ A                                    Dm
+Сумую без тебе... Накинь шось на себе.
+
+     F
+   Рау-рау-пабадиба-думдай...
+        A#                        Gm
+   Я налию собі, я налию тобі вина,
+               A
+   А хочеш із медом?
+
+|Приспів|
+      Dm             A#           Gm
+      Хто ти є? Ти взяла моє життя
+      A
+      І не віддала,
+      Dm            A#          Gm
+      Хто ти є? Ти випила мою кров
+          A
+      І п'яною впала,
+      Dm         A#                Gm
+      Твої очі кличуть, хочуть мене,
+         A
+      Ведуть за собою...
+      Dm         A#              Gm
+      Хто ти є, ким би не була ти, -
+      A      Dm        F  A#
+      Я не здамся без бою!
+      A      Dm        F  A# A
+      Я не здамся без бою!
+
+         Gm A Dm A#  Gm A Dm F
+
+   A#                        Gm
+   Я налию собі, я налию тобі вина,
+               A
+   А хочеш із медом?
+
+|Приспів|
+      Dm             A#           Gm
+      Хто ти є? Ти взяла моє життя
+      A
+      І не віддала,
+      Dm            A#          Gm
+      Хто ти є? Ти випила мою кров
+          A
+      І п'яною впала,
+      Dm         A#                Gm
+      Твої очі кличуть, хочуть мене,
+         A
+      Ведуть за собою...
+      Dm         A#              Gm
+      Хто ти є, ким би не була ти, -
+      A      Dm        F  A#
+      Я не здамся без бою!
+      A      Dm        F  A#
+      Я не здамся без бою!
+      A      Dm        F  A# A Dm F A# Gm Dm
+      Я не здамся без бою!, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Без меж, Author: Океан Ельзи, Author chord: , Content:       для удобства: тональность "+3"
+вст. F#m D F#m D
+
+F#m          D
+Твої грози пахнуть світлом.
+F#m          Bm
+Б'є погляд у даль.
+F#m            D
+Непохитно, непомітно
+F#m             Bm
+Дощ вабить печаль.
+B              Bm
+Не змогли мої сни.
+   B               C#
+Стати сильними...
+
+Приспів:
+        D                   Bm
+Без меж світ твоїх очей!
+                 F#m     E
+Серце моє п'яне тане...
+       D                   Bm
+Без меж сум моїх ночей.
+                   F#m     E
+Ким же я без тебе стану?
+        D        C#    F#m
+Без меж любов моя...
+
+ПРОИГР. F#m Bm F#m Bm
+
+F#m              D
+Майже рано, майже пізно.
+F#m          Bm
+Не спати всю ніч...
+F#m          D
+Тайни мої будуть жити.
+F#m          Bm
+Без зайвих облич.
+B              Bm
+Кожен день, кожну мить.
+   B               C#
+Як воно болить!
+
+Приспів:
+        D                   Bm
+Без меж світ твоїх очей!
+                F#m     E
+Серце моє п'яне тане...
+       D                   Bm
+Без меж сум моїх ночей.
+                    F#m     E
+Ким же я без тебе стану.
+        D        C#    F#m
+Без меж любов моя...
+
+ПРОИГР. F#m E D E 2p
+             B Bm B C#
+
+Приспів:
+        D                   Bm
+Без меж світ твоїх очей!
+                F#m     E
+Серце моє п'яне тане...
+       D                   Bm
+Без меж сум моїх ночей.
+                    F#m
+Ким же я без тебе стану.
+                      E
+Ким же я без тебе.
+                              D
+Напевне стану я, любов моя!
+                     Bm
+Коли я сам один.
+                     F#m
+Спускатимусь на дно. Дно...
+                       E
+Я сам на темне дно безодні
+
+        D            C#
+Без меж, без меж.
+        A         C#
+Ти знов прийдеш.
+        D
+І не дивлячись на дощ.
+        E
+Знайдеш мене.
+        D       C#   F#m
+Без меж любов моя..., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Без Образ, Author: Океан Ельзи, Author chord: 
+                            Віктор Войтко                        , Content: Dm
+
+Cm
+Без образ
+                        Dm
+Цього разу буде без образ
+Gm                      Am
+Всі твої нерівності і всі мої рівняння
+Cm
+Без образ
+                         Dm
+Цього разу буде без образ
+Gm                     Am
+Всі твої наївності і нерукостискання
+Взято з сайту https://mychords.net
+
+Bb   F    Am
+Все стає густим
+Bb     F     Am
+Кава, кров і дим
+Dm
+Буде як буде
+Bb                     C            Am
+Небо небо небо най буде за нас
+Dm
+Буде як буде
+Bb                     C            Am
+Небо небо небо живе без образ
+Bb             C                    F                  Bb
+Тому коли наступний раз поставиш на mute дзвінки
+Gm            Am          Dm
+Я прийду з квітами у думки
+
+
+Dm
+З голоду
+Gm                       Am
+Темна ніч померла з голоду
+Dm
+Так і не отримавши
+Gm                  Am
+Фрейдівського змісту
+
+
+Dm
+Змолоду
+Gm                           Am
+Нас давно привчило змолоду
+Dm
+Роздягатись в темряві
+Gm                 Am
+Давньоруське місто
+
+
+Bb   F    Am
+Все стає густим
+Bb     F     Am
+Кава, кров і дим
+Dm
+Буде як буде
+Bb                     C           Am
+Небо небо небо най буде за нас
+Dm
+Буде як буде
+Bb                     C             Am
+Небо небо небо живе без образ
+Bb             C                     F                Bb
+Тому коли наступний раз поставиш на mute дзвінки
+Gm             Am        Dm
+Я прийду з квітами у думки
+
+
+Bb   F    Am
+Все стає густим
+Bb     F     Am
+Кава, кров і дим
+Dm
+Буде як буде
+Bb                     C           Am
+Небо небо небо най буде за нас
+Dm
+Буде як буде
+Bb                     C             Am
+Небо небо небо живе без образ
+Bb             C                     F                Bb
+Тому коли наступний раз поставиш на mute дзвінки
+Gm             Am        Dm
+Я прийду з квітами у думки, Шлях до зображення: default_image.jpg
+Name: Океан ельзи - без причини, Author: Океан Ельзи, Author chord: 
+                            Андріана Швець                        , Content: Am
+Дощ зупинився на мить,
+F#dim
+Ніч так збавливо тремтить,
+Dm                E7       Am
+Мов у пуантах тремтить балерина...
+
+Am
+Серед смарагдових снів
+F#dim
+Нитки блакитних вогнів,
+Dm               E7          Am
+Десь загувся мій світ, мов дитина...
+
+Приспів:
+      Dm             E
+    В чому причина моя?..
+      Am              F#dim
+    В тому, що ти так далеко і я
+    F               E
+    Знову очей не зімкнув
+          Am
+    Ні хвилини...
+
+      Dm             E
+    В чому причина моя?...
+      Am         F#dim
+    Знов називаю я твоє імʼя
+    F              E
+    І посміхаюсь, чомусь,
+           Am
+    Без причини...
+
+Am
+Біль залишає сліди,
+F#dim
+Випита склянка води,
+Dm              E7         Am
+А на причалі стоїть, бригантина...
+
+Am
+Ліжко світанком не спить,
+F#dim
+Сонце в душі мерехтить,
+Dm              E7       Am
+Спала нарешті з очей пелерина...
+
+Приспів, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Без Тебе, Author: Океан Ельзи, Author chord: , Content: для удобства: тональность "-1"
+
+вст. Fm
+Взято з сайту https://mychords.net
+Куплет:1
+      Fm       C
+Без тебе - душа сліпа
+F7                          A#m
+І тіло моє, мов не рідне
+     Fm       C7       Fm
+Без тебе - один туман
+
+     Fm       C
+Без тебе - кругом вода
+F7                          A#m
+Куди не глянь землі не видно
+     Fm       C7       Fm
+Без тебе - кругом обман
+
+Припев:
+A#m        Fm
+Летить, шукає
+  C#     Cm   A#m
+Тебе душа моя,
+      G#        C7      Fm
+Бо знає - де ти, там я
+
+Куплет:2
+      Fm       C
+Без тебе моя любов,
+F7                          A#m
+Немов розкидане намисто
+     Fm       C7       Fm
+Червоне, в снігу лежить.
+
+      Fm       C
+Навколо застигла ніч
+F7                          A#m
+І віє холодом навмисно.
+     Fm       C7       Fm
+Світає, душа не спить
+
+Припев:
+A#m        Fm
+Летить, шукає
+  C#     Cm   A#m
+Тебе душа моя,
+      G#        C7      Fm
+Бо знає - де ти, там я
+
+C Fm C Fm
+F7 A#m C# C
+C Fm C Fm
+F7 A#m C# C
+Fm
+
+Fm              C
+Так близько твоя рука
+F7                        A#m
+Навіть коли тебе немає
+Fm
+Я знаю
+C7          Fm
+де ти - там я.
+Fm
+Блукаю
+      C7      Fm
+Де ти, там я.
+Fm
+Літаю
+     C7       Fm
+Де ти, там я., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Без тебе мене нема​, Author: Океан Ельзи, Author chord: , Content: [Вступ]
+                         Bm A F#m G
+Без тебе мене нема
+
+Bm A F#m G
+
+[Куплет 1]
+Bm                          A       F#m           G
+Десь там, де нас нема, в минулому житті
+Bm                   A
+Я міг би жити там
+A
+(Там, там, там, тіки там, там, тіки там)
+  F#m              G
+У власній простоті
+
+Em                A
+Але з'явилась ти
+F#m                       G
+Назавжди, мов на мить
+Em                A        F#m
+І вже моя душа, мов у вогні кричить
+F#m
+Чуєш?
+
+[Приспiв]
+G               A
+Без тебе мене нема
+F#m                Bm
+Без тебе мене нема
+G               A
+Без тебе холодна ніч
+F#m                Bm
+І літо немов зима
+G               A
+Я знаю все буде добре
+F#m               Bm
+Історія не нова
+G                  A
+Та зараз ти не зі мною
+F#m                     Bm
+А без тебе мене нема
+
+[Пост-приспiв]
+ Bm                    A
+Без тебе мене нема
+                        F#m
+Без тебе мене нема
+                          G
+Без тебе мене нема
+
+[Куплет 2]
+ Bm                    A
+Я міг би стати всім
+F#m                   G
+Блаженним чи пустим
+ Bm                    A
+Я ліз би по горбам
+F#m                G
+У свій Єрусалим
+
+Em                A
+Але з'явилась ти
+F#m                       G
+На мить, мов назавжди
+Em                   A
+І хриплий голос мій
+F#m
+Кричить тобі не йди
+Чуєш?
+
+[Приспiв]
+G               A
+Без тебе мене нема
+F#m                Bm
+Без тебе мене нема
+G               A
+Без тебе холодна ніч
+F#m                Bm
+І літо немов зима
+G               A
+Я знаю все буде добре
+F#m               Bm
+Історія не нова
+G                  A
+Та зараз ти не зі мною
+F#m                     Bm
+А без тебе мене нема
+
+[Пост-приспiв]
+ Bm                    A
+Без тебе мене нема
+                        F#m
+Без тебе мене нема
+                          G
+Без тебе мене нема
+
+ Bm                    A
+Без тебе мене нема
+                        F#m
+Без тебе мене нема
+                          G
+Без тебе мене нема
+
+G F#m  G F#m G F#m
+Em A
+
+[Приспiв]
+G               A
+Без тебе мене нема
+F#m                Bm
+Без тебе мене нема
+G               A
+Без тебе холодна ніч
+F#m                Bm
+І літо немов зима
+G               A
+Я знаю все буде добре
+F#m               Bm
+Та поки це лиш слова
+G                  A
+Та зараз ти не зі мною
+F#m                     Bm
+А без тебе мене нема
+
+[Пост-приспiв] x2
+ Bm                    A
+Без тебе мене нема
+                        F#m
+Без тебе мене нема
+                          G
+Без тебе мене нема
+
+ Bm                    A
+Без тебе мене нема
+                        F#m
+Без тебе мене нема
+                          G
+Без тебе мене нема, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Більше для нас, Author: Океан Ельзи, Author chord: 
+                            EgorKa                        , Content: Bm Em Bm Em
+Ми не спали всю ніч, розбудили слова,
+G F# Bm
+Ми не хочемо більше ділити на два.
+Bm Em Bm Em
+Ми не будемо так, як то було завжди,
+G F# Bm
+Не буває в болоті смачної води.
+
+Приспів:
+Bm G Em F#
+Давай, залишимо більше для нас!
+Bm G Em F#
+Давай, ми зможемо більше для нас!
+Em G
+І нехай знає весь світ:
+C# F#
+Називай місце й час!
+Bm G Em F#
+Давай, залишимо більше для нас!
+
+Наші сонячні дні зачекались давно,
+Нам замало квитків на вокзал і в кіно.
+Не показуйте жаль, не впадайте в екстаз,
+Ми сьогодні залишимо більше для нас.
+Приспів: 2р., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Бодегита, Author: Океан Ельзи, Author chord: , Content: Играть на баррэ
+Em                                            C
+Літо... Летять комети над головою.
+                        Am               Em
+Бачу кожну з них я в твоїх очах.
+Em                                                C
+Літо... Воно знайомить мене з тобою, -
+                  Am                   Em
+Нотами звучить у моїх думках.
+
+Ей!
+Em
+В голові у мене літо, я зайошов у Бодегіту.
+Em
+Я замовив там мохіто i, як раптом тут і ти.
+Em
+Швидко стали плани - яркими, а рухи мої - плавними.
+Em
+І було тепло там, де ми. Так близько до мети...
+
+Приспів:
+F                                           G           Em
+О, два мохіто! О-о, між нами буде літо.
+F                                        G       Em
+О, два мохіто! О-о, навколо Бодегіта.
+F                                         G       Em
+О, два мохіто! О-о, між нами буде...
+
+[Solo]
+
+Ей!
+
+Непохитне наше бачення на мову й телебачення.
+Хіба то має значення, коли уже ніякі?
+Ми не хочем зупінятися. Ми будем обійматися.
+Очима напиватися, ловити кожен знак!
+
+Приспів:
+О, два мохіто! О-о, між нами буде літо.
+О, два мохіто! О-о, навколо Бодегіта.
+О, два мохіто! Оо, між нами буде...
+
+[Solo]
+
+О, два мохіто! О-о, між нами буде літо.
+О, два мохіто! О-о, навколо Бодегіта.
+О, два мохіто! О-о, між нами буде...
+
+Літо...
+Cкажи нам літо, чому так мало
+Залишаеш нам? Залишаеш нас..., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Будинок зi скла, Author: Океан Ельзи, Author chord: , Content: Em
+Ти живеш в домi зi скла
+G
+Вiн стоiть за вiкном
+ C              Em  C D
+Хочу я його дiстати
+
+Ти живеш в домi зi скла
+А навколо стiна
+Мушу я ii зламати
+
+Ти живеш в домi зi скла
+Вiн стоiть за вiкном
+Хочу я його дiстати
+
+Ти живеш в домi зi скла
+А навколо стiна
+Мушу я ii зламати
+
+ Em
+Хочу, хочу бачити твiй дiм
+Хочу, хочу бачити, де ти живеш
+Хочу, хочу бачити твiй дiм
+Хочу, хочу бачити, де ти живеш..., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - В небо жене, Author: Океан Ельзи, Author chord: , Content: для удобства: тональность "+2"
+
+вст. Gm F Cm A# 2p
+Взято з сайту https://mychords.net
+[Куплет 1, Океан Ельзи]:
+Gm           F               Cm
+Ти з моїх губ злизуєш сіль.
+Gm           F    Cm
+Я знов і знов бавлюсь у вчора.
+Gm           F                  Cm
+Як нам, скажи, згладити біль.
+Gm              F       Cm
+Біль все не йде із шумом мотора.
+
+Gm           F             Cm
+Встали рано свої думки.
+Gm           F               Cm
+Ми між слова ховатимемо шрами.
+D#          F       Dm        D#
+Згладжує біль дотик руки.
+Cm                         F
+Біль, як завжди ходить словами.
+
+[Приспів, Океан Ельзи]:
+   Gm             F                       Cm
+В небо жене, в небо жене, в небо жене
+                   Gm F Cm
+Спогади юрбою.
+   Gm             F                       Cm
+Не дожене, не дожене, не дожене
+                     Gm F Cm
+Вітер нас з тобою.
+
+Gm F Cm A# 2p
+
+[Куплет 2, Океан Ельзи]:
+Gm           F               Cm
+Ти з моїх губ злизуєш сіль.
+Gm           F               Cm
+Я відпустив і завтра і вчора.
+D#          F          Dm        D#
+Є тільки мить, за нами мчить
+Cm                         F
+Вітер весни із шумом мотора.
+
+[Приспів, Океан Ельзи]:
+   Gm                  F                  Cm
+В небо жене, в небо жене, в небо жене
+                   Gm F Cm
+Спогади юрбою.
+   Gm             F                     Cm
+Не дожене, не дожене нас, не дожене
+                      Gm F Cm
+Вітер нас з тобою.
+
+   Gm               F                    Cm
+В небо жене, в небо жене, в небо жене
+                   Gm F Cm
+Спогади юрбою.
+   Gm             F                Cm
+Не дожене, не дожене нас, не дожене
+                     Gm F Cm
+Вітер нас з тобою.
+
+Gm F Cm
+Gm F Cm A#
+Gm F Cm
+Gm F Cm A#
+
+   Gm             F                       Cm
+В небо жене, в небо жене, в небо жене
+                   Gm F Cm
+Спогади юрбою.
+   Gm             F                  Cm
+Не дожене, не дожене нас, не дожене
+                     Gm F Cm    Gm
+Вітер нас з тобою., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Вiддам, Author: Океан Ельзи, Author chord: , Content: Bm
+Мене чекає кожен день
+G                   Em
+Моя наступна гiльйотина.
+Bm
+Сьогоднi я твоя дитина,
+         G            Em
+А завтра я - твоя стiна.
+
+Менi не хочеться нi з ким
+Лiтати, їздити, ходити.
+Сьогоднi я на полi битви,
+А далi я не знаю сам?
+Взято з сайту https://mychords.net
+    D
+   Вiддам, вiддам,
+   C#
+   Я усе тобi вiддам.
+   Em
+   Хочеш - не люби мене,
+   Bm             A
+   Але я не можу сам.
+    D
+   Вiддам, вiддам,
+   C#
+   Я усе тобi вiддам.
+   Em
+   Бачиш - я заклеїв очi,
+   Bm                 A  D   C# Bm
+   Я не бачу, тiльки хочу я!
+
+Дванадцять мiсяцiв один й годин,
+А п'ять секунд - вже забагато,
+Бо навiть мить для мене свято,
+Коли вiдкрив очi я.
+
+Забув вогонь i воду я,
+Залишив навiть мiднi труби,
+Але нiколи не забуду
+Ту мить, коли з тобою я.
+
+   Вiддам, вiддам,
+   Я усе тобi вiддам.
+   Хочеш - не люби мене,
+   Але я не можу сам.
+   Вiддам, вiддам,
+   Я усе тобi вiддам.
+   Бачиш - я заклеїв очi,
+   Я не бачу, тiльки хочу я, Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Вiдпусти, Author: Океан Ельзи, Author chord: , Content: Вступление: Gm | A# | Am | D7  } 4 раза
+
+|Куплет 1|
+     Gm                           F          A#
+Я вважав би, що ти бiлий день без дощу,
+    D7                Gm D7
+Але сльози на твому обличчi,
+     Gm
+I сказав би тобi:
+      F       A#
+"Не моя, не моя",
+       D#       D7     Gm
+Тiльки ти не пускаєш мене.
+
+     Gm                         F          A#
+Я вважав би, що ти тиха нiч без зiрок,
+    D7                Gm D7
+Але сяють твоi яснi очi.
+     Gm
+I сказав би тобi:
+      F       A#
+"Ти лиш сон, тiльки сон", -
+       D#       D7     Gm
+Але ж ти не пускаєш мене.
+
+|Приспів|
+     Gm F  A#       F          A#
+     Вiдпусти, я благаю, вiдпусти,
+           D7        Gm  D7
+     Бо не можу далi йти я.
+     Gm F  A#       F          A#
+     Вiдпусти, я благаю, вiдпусти,
+          D7          Gm   A# Am       D7 Gm A# Am       D7
+     Я не хочу бiльше йти.
+
+|Куплет 2|
+     Gm                          F          A#
+I вважав би, що ти пелюсток на веснi,
+    D7                Gm D7
+Алеж ти не зiв'янеш нiколи,
+     Gm
+I сказав би тобi:
+      F       A#
+"Ти моя, не моя",
+       D#       D7     Gm
+Ла-ла-ла-лай, ла-ла-ла-лай, ла-ла.
+
+|Приспів|
+     Gm A# Am       D7
+     Вiдпусти,
+     Gm A# Am       D7
+     Вiдпусти..., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Вiльний, Author: Океан Ельзи, Author chord: , Content: Dm               Am
+Не питай мене, чому
+                 G
+Я буваю сам не свiй -
+               D
+Я такий, як i ти,
+                   Am
+Часом зовсiм не такий.
+
+Кожен день моє життя
+Чує стiльки нових слiв -
+Я хотiв, а не змiг,
+Часом мiг, а не хотiв.
+
+   F   E              Am
+   Але я вiльний, бо живий.
+   F   E              Am
+   Але я вiльний, бо живий.
+      F    E  Am
+   Бо я живий.
+
+Не питай мене, коли
+Нашi плани зацвiтуть -
+I не я, i не ти -
+Тiльки дiти їх знайдуть.
+
+Моя лiнiя життя -
+Не вiйна i не кiно,
+А вокзал i мости
+Вже захоплено давно.
+
+   Але я вiльний, бо живий.
+   Але я вiльний, бо живий.
+   Знаю я вiльний, бо живий.
+   Бо я живий., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Вiсiм, Author: Океан Ельзи, Author chord: , Content: Am              C
+Вiсiм днiв вiн її шукав
+ D     Dm         Am
+На дев'ятий вiн спав
+Am                 C
+Заховалась вона в вiкнi
+ D   Dm  Am
+Без телефону.
+Am               C
+На десятий вiн знов живий,
+ D      Dm    Am
+Вiн спiває, але
+ Am         C
+Не почує вона нiяк
+ D                 Dm
+Мови пiсень на одинадцятий день,
+ F                           E
+Вiн забув, вiн зупинився - все!
+
+    C        F
+   Так швидко минули
+    Am
+   Тi вiсiм днiв
+      F           C
+   Вони й не почули,
+              F         Am D
+   Як все змiнилося давно.
+
+   Навiщо чекати,
+   Далi життя
+   Яке треба взяти,
+   Але дивитися [его]
+
+                 D         F           C
+      Як вірний син далі один він полетить.
+      Як вірний син далі один він полетить.
+
+Вісім днів він до неї йшов
+На дев'ятий знайшов.
+Заховалась вона в ночі -
+Темно навколо.
+На десятий він знов один,
+Як розлитий бензин
+Висихають його слова -
+Всіх його днів. Неспокійні і злі,
+Залишилась просто ніч її.
+
+   Так швидко минули
+   Тi вiсiм днiв
+   Вони й не почули,
+   Як все змiнилося давно.
+
+   Навiщо чекати,
+   Далi життя
+   Яке треба взяти,
+   Але дивитися [его]
+
+      Як вірний син далі один він полетить.
+      Як вірний син далі один він полетить., Шлях до зображення: default_image.jpg
+Name: Океан Ельзи - Веселі часи (Веселі, брате, часи настали), Author: Океан Ельзи, Author chord: 
+                            grozniy                        , Content: Em7 - x02033
+
+   Dm             Gm    Dm
+Веселі, брате, часи настали.
+   Dm            Gm  Dm
+Нове майбутнє дарує день!
+ Gm                 F    Em7
+Чому ж на небі так мало сонця стало?
+   A    Dm           Gm    Dm
+Чому я далі пишу сумних пісень?
+
+Веселі, брате, часи настали
+Ми наближаємось до мети!
+Чому ж тоді я шукаю іншу стежку
+Чому я далі з ними не хочу йти?
+
+Веселі, брате, часи настали
+На грудях світить нам слави знак!
+Нам очі ніжно закрили, губи медом змастили,
+Душу кинули просто так…
+
+Душа прокинулась, та й питає
+Сама у себе - чому одна?
+Немає в кого спитати - золото замість тата
+Замість мами - глуха стіна.
+
+І тихо, тихо навколо стало…
+Кудись поділися голоси…
+Часи веселі настали, нас лишилось так мало,
+Ну їх, брате, такі часи!
+
+Та нам з тобою своє робити,
+Відкрити очі і далі йти!
+І зуби сильно стиснувши, маму ніжно любити
+Хто ж тоді, як не ми, брати?!, Шлях до зображення: default_image.jpg
